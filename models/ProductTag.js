@@ -2,6 +2,7 @@ const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection');
 
+//Model manages the many to many relationship between product and tags
 class ProductTag extends Model {}
 
 ProductTag.init(
