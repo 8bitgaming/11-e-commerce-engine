@@ -3,6 +3,7 @@
 # e-Commerce-Engine
 
 ## Description
+[Link to recorded walkthrough (no audio)](https://drive.google.com/file/d/1ehzyzuiWWLyOAkOMcyuMYhhWWWBiNaCQ/view)
 Provides backend services for an e-commerce site with db and routes for CRUD operations against Products, Categories and Tags
 
 ## Table of Contents
